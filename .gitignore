@@ -1,0 +1,16 @@
+.idea
+dist/
+build/
+build_packages/
+__pycache__/
+*.spec
+*.zip
+*.bak
+*.tar.gz
+*.log
+makefile
+*.venv
+*.csv
+*.json
+Output/
+.DS_Store

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<sources>
+    <source>
+        <name>Facebook</name>
+        <location>facebook.xml</location>
+    </source>
+    <source>
+        <name>Twitter</name>
+        <location>twitter.xml</location>
+    </source>
+    <source>
+        <name>Reddit</name>
+        <location>reddit.xml</location>
+    </source>
+    <source>
+        <name>YouTube</name>
+        <location>youtube.xml</location>
+    </source>
+    <source>
+        <name>Pinterest</name>
+        <location>pinterest.xml</location>
+    </source>
+    <source>
+        <name>Tumblr</name>
+        <location>tumblr.xml</location>
+    </source>
+</sources>
